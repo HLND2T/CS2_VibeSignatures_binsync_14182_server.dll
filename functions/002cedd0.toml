@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:24:49.376113Z
+addr = 0x2cedd0
+size = 0x28
+name = "sub_1802CFDD0"
+
+[header]
+name = "sub_1802CFDD0"
+addr = 0x2cedd0
+
+[header.args]

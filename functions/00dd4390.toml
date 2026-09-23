@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:24:49.376861Z
+addr = 0xdd4390
+size = 0x44
+name = "sub_180DD5390"
+
+[header]
+name = "sub_180DD5390"
+addr = 0xdd4390
+
+[header.args]

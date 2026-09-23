@@ -1,0 +1,10 @@
+last_change = 2026-09-23T12:24:49.376978Z
+addr = 0xfe2200
+size = 0x9e
+name = "sub_180FE3200"
+
+[header]
+name = "sub_180FE3200"
+addr = 0xfe2200
+
+[header.args]
